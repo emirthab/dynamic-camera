@@ -1,0 +1,4 @@
+[submodule "addons/dynamic-camera/godot-cpp"]
+	path = addons/dynamic-camera/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
+	branch = 3.4
